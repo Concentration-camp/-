@@ -1,0 +1,95 @@
+{
+    "algo": "cryptonight",
+    "api": {
+        "port": 13456,
+        "access-token": null,
+        "id": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "autosave": true,
+    "av": 0,
+    "background": true,
+    "colors": false,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 5,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 100,
+    "pools": [
+        {
+            "url":"xmr-asia1.nanopool.org:14444",
+            "user":"41qALJpqLhUNCHZTMSMQyf4LQotae9MZnb4u53JzqvHEWyc2i8PEFUCZ4TGL9AGU34ihPU8QGbRzc4FB2nHMsVeMHaYkxus",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": -1,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null
+        },
+        {
+            "url":"xmr-jp1.nanopool.org:14444",
+            "user":"41qALJpqLhUNCHZTMSMQyf4LQotae9MZnb4u53JzqvHEWyc2i8PEFUCZ4TGL9AGU34ihPU8QGbRzc4FB2nHMsVeMHaYkxus",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": -1,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null
+        },
+        {
+            "url":"cryptonightr.hk.nicehash.com:3375",
+            "user":"41qALJpqLhUNCHZTMSMQyf4LQotae9MZnb4u53JzqvHEWyc2i8PEFUCZ4TGL9AGU34ihPU8QGbRzc4FB2nHMsVeMHaYkxus",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": -1,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null
+        },
+        {
+            "url":"xmr-us-west1.nanopool.org:14444",
+            "user":"41qALJpqLhUNCHZTMSMQyf4LQotae9MZnb4u53JzqvHEWyc2i8PEFUCZ4TGL9AGU34ihPU8QGbRzc4FB2nHMsVeMHaYkxus",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": -1,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null
+        },
+        {
+            "url":"xmr.f2pool.com:13531",
+            "user":"41qALJpqLhUNCHZTMSMQyf4LQotae9MZnb4u53JzqvHEWyc2i8PEFUCZ4TGL9AGU34ihPU8QGbRzc4FB2nHMsVeMHaYkxus",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": -1,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "cpu": {
+        "max-threads-hint": 100
+    },
+    "print-time": 900,
+    "retries": 11,
+    "retry-pause": 5,
+    "safe": false,
+    "threads": true,
+    "user-agent": null,
+    "syslog": false,
+    "watch": true
+}
